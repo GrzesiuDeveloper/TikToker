@@ -1,6 +1,6 @@
 # TikToker
 
-TikToker is a Python program for botting views to TikTok videos.
+TikToker is a small but versatile Python program for botting views to TikTok videos.
 
 ## Installation
 
