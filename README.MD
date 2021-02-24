@@ -20,7 +20,7 @@ python3 main.py
 
 Then, specify the TikTok video you would like to viewbot:
 
-```bash
+```
 Please input your video url (It should look like this: 
 https://www.tiktok.com/@USERNAME/video/VIDEOID)
 > YOUR VIDEO
@@ -31,7 +31,7 @@ After that, go to the two browser windows and solve the captcha on each.
 Finally, just sit back and relax, and look at your videos views go up!
 
 Sample Output:
-```bash
+```
 $ tiktok python3 main.py
 ---TikTok Viewbot---
 My GitHub: recanman
